@@ -1,2 +1,3 @@
 # Dem1
-This is for learning purpose - Rishabh Rawat
+This is for learning purposes <br> 
+Rishabh Rawat
